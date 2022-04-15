@@ -19,7 +19,7 @@ Hello World,
 
 Here i wanted to start giving you motivation on why you should learn python 🙂. However, i decided against it, because for you to be here you are already aware of the **Power of Python** so i dont need to talk and demostrate much. For the sake of completeness, i will leave you with some few thoughs and encouragement.
 
-According to Statista.com python ranks 3rd most used prigramming language nehind javascript and HTML, and ahead of Java. This proves that the lnaguage has gotten even more popular.
+According to Statista.com python ranks 3rd most used programming language nehind javascript and HTML, and ahead of Java. This proves that the lnaguage has gotten even more popular.
 
 ![Python Statistics](./Assets/PythonStat.JPG "Most used Programming Languages")
 
